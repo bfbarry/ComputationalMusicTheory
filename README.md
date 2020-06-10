@@ -28,6 +28,7 @@ IDEAS:
 - Signal processing:
     - Granger causality b/w chords?  Treat them as time series.  How do results change when you change time scale?
     - autocorrelation
+- [Spectral graphs](https://www.jasondavies.com/graph-music/)
 
 Resources:
 - [This audio signal processing lib](https://madmom.readthedocs.io/en/latest/introduction.html)
